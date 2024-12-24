@@ -1,0 +1,168 @@
+{
+  "login": {
+    "title": "Sign in to your account",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign in",
+    "submitting": "Signing in...",
+    "error": {
+      "invalid": "Invalid email or password",
+      "generic": "An error occurred"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "role": "Role",
+    "signOut": "Sign Out"
+  },
+  "language": {
+    "en": "English",
+    "ml": "മലയാളം"
+  },
+  "gramam": {
+    "title": "Gramams",
+    "description": "Manage gramams in both English and Malayalam",
+    "add": "Add Gramam",
+    "edit": "Edit Gramam",
+    "delete": "Delete Gramam",
+    "nameEn": "Name (English)",
+    "nameMl": "Name (Malayalam)",
+    "actions": "Actions",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirmDelete": "Are you sure you want to delete this gramam?",
+    "success": {
+      "create": "Gramam created successfully",
+      "update": "Gramam updated successfully",
+      "delete": "Gramam deleted successfully"
+    },
+    "error": {
+      "create": "Error creating gramam",
+      "update": "Error updating gramam",
+      "delete": "Error deleting gramam",
+      "fetch": "Error fetching gramams"
+    }
+  },
+  "vedam": {
+    "title": "Vedams",
+    "description": "Manage vedams in both English and Malayalam",
+    "add": "Add Vedam",
+    "edit": "Edit Vedam",
+    "delete": "Delete Vedam",
+    "nameEn": "Name (English)",
+    "nameMl": "Name (Malayalam)",
+    "actions": "Actions",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirmDelete": "Are you sure you want to delete this vedam?",
+    "success": {
+      "create": "Vedam created successfully",
+      "update": "Vedam updated successfully",
+      "delete": "Vedam deleted successfully"
+    },
+    "error": {
+      "create": "Error creating vedam",
+      "update": "Error updating vedam",
+      "delete": "Error deleting vedam",
+      "fetch": "Error fetching vedams"
+    }
+  },
+  "gothram": {
+    "title": "Gothrams",
+    "description": "Manage gothrams in both English and Malayalam",
+    "add": "Add Gothram",
+    "edit": "Edit Gothram",
+    "delete": "Delete Gothram",
+    "nameEn": "Name (English)",
+    "nameMl": "Name (Malayalam)",
+    "actions": "Actions",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirmDelete": "Are you sure you want to delete this gothram?",
+    "success": {
+      "create": "Gothram created successfully",
+      "update": "Gothram updated successfully",
+      "delete": "Gothram deleted successfully"
+    },
+    "error": {
+      "create": "Error creating gothram",
+      "update": "Error updating gothram",
+      "delete": "Error deleting gothram",
+      "fetch": "Error fetching gothrams"
+    }
+  },
+  "illam": {
+    "title": "Illams",
+    "description": "Manage illams and their associated gothrams",
+    "add": "Add Illam",
+    "edit": "Edit Illam",
+    "delete": "Delete Illam",
+    "nameEn": "Name (English)",
+    "nameMl": "Name (Malayalam)",
+    "gothram": "Gothram",
+    "gramam": "Gramam",
+    "vedam": "Vedam",
+    "phone": "Phone Number",
+    "address": "Address",
+    "district": "District",
+    "state": "State",
+    "pincode": "PIN Code",
+    "mapsUrl": "Google Maps URL",
+    "selectGothram": "Select a Gothram",
+    "selectGramam": "Select a Gramam",
+    "selectVedam": "Select a Vedam",
+    "confirmDelete": "Are you sure you want to delete this illam?",
+    "success": {
+      "create": "Illam created successfully",
+      "update": "Illam updated successfully",
+      "delete": "Illam deleted successfully"
+    },
+    "error": {
+      "fetch": "Failed to fetch illams",
+      "create": "Failed to create illam",
+      "update": "Failed to update illam",
+      "delete": "Failed to delete illam"
+    }
+  },
+  "namboodiri": {
+    "title": "Namboodiris",
+    "description": "Manage namboodiris and their details",
+    "create": "Add Namboodiri",
+    "edit": "Edit Namboodiri",
+    "nameEn": "Name (English)",
+    "nameMl": "Name (Malayalam)",
+    "gothram": "Gothram",
+    "illam": "Illam",
+    "profession": "Profession",
+    "phone": "Phone Number",
+    "email": "Email",
+    "address": "Address",
+    "district": "District",
+    "state": "State",
+    "pincode": "PIN Code",
+    "selectGothram": "Select a Gothram",
+    "selectIllam": "Select an Illam",
+    "selectProfession": "Select a Profession",
+    "noRecords": "No namboodiris found"
+  },
+  "profession": {
+    "title": "Professions",
+    "description": "Manage professions in both English and Malayalam",
+    "create": "Add Profession",
+    "edit": "Edit Profession",
+    "nameEn": "Name (English)",
+    "nameMl": "Name (Malayalam)",
+    "noRecords": "No professions found"
+  },
+  "common": {
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "update": "Update",
+    "create": "Create",
+    "save": "Save",
+    "actions": "Actions",
+    "confirmDelete": "Are you sure you want to delete this item?"
+  }
+}
